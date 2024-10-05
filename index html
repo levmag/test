@@ -1,0 +1,12 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css"> 
+</head>
+<body>
+BODY {
+background-color : #FFEE8C ;
+background-image : url(ris1.png) ;
+}
+
+</body>
+</html>
